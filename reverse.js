@@ -1,3 +1,4 @@
+//reverse a string without using builtin method 
 const originalString= "ferse";
 const reversedString= reverseString(originalString);
 console.log(reversedString);
