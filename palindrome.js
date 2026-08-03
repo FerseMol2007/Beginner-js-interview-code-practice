@@ -1,3 +1,4 @@
+//check if a string is palindrome without inbuilt method
 function isPalidrome(str) {
     function reverseString(str) {
         let reversed = '';
